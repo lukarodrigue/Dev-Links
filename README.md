@@ -1,6 +1,6 @@
 <h1 align="center"> DevLinks </h1>
 
-![zzzzzzzzzz](https://github.com/user-attachments/assets/92c9ed11-6305-4c72-975d-3d3fd9b8db54)
+![zzzzzzzzzz](https://github.com/user-attachments/assets/965c84f5-cb03-4e4e-ae9c-415ecfe41c01)
 
 
 ## 🚀 Tecnologias
